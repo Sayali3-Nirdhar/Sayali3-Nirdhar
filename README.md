@@ -1,6 +1,5 @@
 # 💫 About Me:
-currently working onn front end of an companys app useing react.js as an intern working on real time project in the startup company and looking for the job oportunitys to learn more <br>
-
+🔭 I’m currently working on:<br>- Real-time projects at my startup internship<br>- shubh-vivah<br>- Improving frontend performance using React.js<br><br>👯 I’m looking to collaborate on:<br>- Web development projects (React)<br>- Open-source beginner-friendly contributions<br><br>🤝 I’m looking for help with:<br>- Backend development (spring boot, APIs)<br>- System design basics<br>- Writing clean and scalable code<br><br>🌱 I’m currently learning:<br>- React Native <br>- Backend development (Spring Boot)<br>- Database optimization (MySQL)<br><br>💬 Ask me about:<br>- React.js projects<br>- Frontend development<br>- Building responsive UI<br><br>⚡ Fun fact:<br>- I love turning ideas into real-world applications<br>- I enjoy improving UI/UX and making applications more user-friendly 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayali_nirdhar0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sayali Nirdhar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sayali nirdhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirdharsayali@gmail.com) 
